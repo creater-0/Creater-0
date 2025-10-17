@@ -1,4 +1,4 @@
-# Hi, I’m Creator-0 🪼
+# Hi, I’m Creator-0 🐦‍🔥
 
 ### Welcome to the World of Creator-0 🐦‍🔥
 
@@ -25,7 +25,7 @@ I'm passionate about **Cybersecurity**, **Ethical Hacking**, and **Software Deve
 * **HTML/CSS/JavaScript** (Web Development)
 ---
 
-### Custom Mindset Statement (🐦‍🔥):
+### Custom Mindset Statement 🐦‍🔥:
 * **🔒 Hacker Mindset**
     * Always learning. Never stop hacking.
     * Security is a continuous process, not a one-time fix.
