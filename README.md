@@ -14,7 +14,6 @@ I'm passionate about **Cybersecurity**, **Ethical Hacking**, and **Software Deve
 * 📧 Let's connect! You can reach me at dhrawpan@gmail.com 
 
 ---
-
 ## 🛠️ Skills & Tools
 
 ### My Focus Areas:
@@ -22,7 +21,9 @@ I'm passionate about **Cybersecurity**, **Ethical Hacking**, and **Software Deve
 * **Penetration Testing** & Vulnerability Research
 * **CTF** (Capture The Flag) Challenges
 * **Python** (Scripting & Automation)
+* Certified Ethical Hacker (**CEH**)
 * **HTML/CSS/JavaScript** (Web Development)
+---
 
 ### Custom Mindset Statement (🐦‍🔥):
 * **🔒 Hacker Mindset**
